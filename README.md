@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Yudhishter Sukhija 👋
 
-<!--
-**yudhishtersukhija/yudhishtersukhija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 WordPress Developer | PHP | Custom Themes & Plugins  
+🚀 AI + SEO-Focused Developer  
+🌍 Building high-performance websites for global clients  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 8+ years in Website Design & Development  
+- Transitioning into advanced WordPress Development  
+- Skilled in PHP, WordPress internals, and custom solutions  
+- Focused on performance, SEO, and scalability  
+
+---
+
+## 🛠️ Tech Stack
+
+- WordPress (Custom Themes & Plugins)
+- PHP & MySQL  
+- HTML, CSS, JavaScript  
+- WooCommerce  
+- REST API Integration  
+- Git & GitHub  
+
+---
+
+## 🚀 Projects
+
+Here are some of my key projects:
+
+- 🔹 Custom WordPress Theme Development  
+- 🔹 WordPress Plugin Development  
+- 🔹 WooCommerce Checkout Customization  
+- 🔹 API Integration Projects  
+- 🔹 Performance Optimization Case Studies  
+
+👉 More projects coming soon...
+
+---
+
+## 📈 What I'm Working On
+
+- Advanced WordPress Plugin Development  
+- Gutenberg Block Development  
+- AI-powered WordPress solutions  
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Website: https://yudhishtersukhija.com/
+- 💼 LinkedIn: https://www.linkedin.com/in/yudhishtersukhija/
+- 📧 Email: contact@yudhishter.net  
+
+---
+
+⭐ Always learning. Always building.
