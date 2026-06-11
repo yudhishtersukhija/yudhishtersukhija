@@ -8,8 +8,7 @@
 
 ## 🧠 About Me
 
-- 8+ years in Website Design & Development  
-- Transitioning into advanced WordPress Development  
+- 8+ years in Website Design & Development   
 - Skilled in PHP, WordPress internals, and custom solutions  
 - Focused on performance, SEO, and scalability  
 
@@ -18,6 +17,7 @@
 ## 🛠️ Tech Stack
 
 - WordPress (Custom Themes & Plugins)
+- Gutenberg Block Development
 - PHP & MySQL  
 - HTML, CSS, JavaScript  
 - WooCommerce  
@@ -30,7 +30,8 @@
 
 Here are some of my key projects:
 
-- 🔹 Custom WordPress Theme Development  
+- 🔹 Custom WordPress Theme Development
+- 🔹 Gutenberg Block Development 
 - 🔹 WordPress Plugin Development  
 - 🔹 WooCommerce Checkout Customization  
 - 🔹 API Integration Projects  
@@ -43,7 +44,6 @@ Here are some of my key projects:
 ## 📈 What I'm Working On
 
 - Advanced WordPress Plugin Development  
-- Gutenberg Block Development  
 - AI-powered WordPress solutions  
 
 ---
